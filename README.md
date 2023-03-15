@@ -13,9 +13,9 @@ Body: User Stories
 * As a user, when I click on a category, only photos associated with the sel
 
 Title: Design the Contact Form
-Body: User Stories
-• As a user, I can enter my information into a form.
-• As a user, I can submit the information.
+* Body: User Stories
+* • As a user, I can enter my information into a form.
+* • As a user, I can submit the information.
 
 Title: Create a Modal
 Body: User Stories
